@@ -1,0 +1,32 @@
+{
+  "name": "mern-starter-kit",
+  "version": "1.0.0",
+  "description": "A MERN starter kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FASTLIKETREE/MERN-starter-kit.git"
+  },
+  "author": "Wesley Hunt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FASTLIKETREE/MERN-starter-kit/issues"
+  },
+  "homepage": "https://github.com/FASTLIKETREE/MERN-starter-kit#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "colors": "^1.1.2",
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "webpack": "^3.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.7.1",
+    "eslint-loader": "^1.9.0",
+    "nodemon": "^1.12.1",
+    "webpack": "^3.6.0"
+  }
+}
