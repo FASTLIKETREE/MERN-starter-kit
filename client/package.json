@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/FASTLIKETREE/MERN-starter-kit/issues"
   },
-  "homepage": "https://github.com/FASTLIKETREE/MERN-starter-kit#readme"
+  "homepage": "https://github.com/FASTLIKETREE/MERN-starter-kit#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "react": "^16.0.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "superagent": "^3.6.0"
+  }
 }
