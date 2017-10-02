@@ -1,5 +1,4 @@
 /*
-    Let's make the console easier to read
     text colors
         black
         red
